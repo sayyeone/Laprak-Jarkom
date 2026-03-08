@@ -47,12 +47,14 @@ Pilih lokasi penyimpanan instalasi Wireshark dengan menekan tombol **Browse**. A
 
 Ikuti semua alur instalasi yang disediakan hingga proses instalasi selesai sepenuhnya. Pada proses instalasi, Wireshark juga akan menawarkan instalasi **Npcap** yang merupakan komponen penting untuk menangkap paket jaringan. Pastikan komponen tersebut ikut diinstall. Klik **Finish** untuk menutup installer.
 
-![Halaman download Wireshark - pilih installer sesuai OS](Assets/direct.png)
+![Halaman download Wireshark - pilih installer sesuai OS](Assets/s4-w.png)
 
 
 ### Langkah 5: Instalasi Selesai
 
 Setelah proses instalasi selesai, Wireshark siap digunakan. Wireshark merupakan *network protocol analyzer* yang memungkinkan praktikan untuk menangkap dan menganalisis lalu lintas data secara real-time di jaringan komputer.
+
+![Halaman download Wireshark - pilih installer sesuai OS](Assets/s5-w.png)
 
 ---
 
